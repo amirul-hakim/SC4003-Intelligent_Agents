@@ -1,0 +1,354 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.18)  18 MAR 2025 21:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Amirul_Hakim_U2120904B.tex
+(Amirul_Hakim_U2120904B.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks18
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen151
+\captionmargin=\dimen152
+\caption@leftmargin=\dimen153
+\caption@rightmargin=\dimen154
+\caption@width=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count266
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count267
+)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks19
+\float@box=\box51
+\@float@everytoks=\toks20
+\@floatcapt=\box52
+)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box53
+) (Amirul_Hakim_U2120904B.aux
+
+LaTeX Warning: Label `fig:value_iteration_convergence' multiply defined.
+
+
+LaTeX Warning: Label `fig:policy_iteration_convergence' multiply defined.
+
+)
+\openout1 = `Amirul_Hakim_U2120904B.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen159
+\scratchbox=\box54
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen160
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
+* v-part:(T,H,B)=(106.75473pt, 578.15999pt, 160.13213pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=578.15999pt
+* \oddsidemargin=9.67395pt
+* \evensidemargin=9.67395pt
+* \topmargin=-2.51526pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+<../asset/value_iteration_policy.png, id=1, 462.528pt x 346.896pt>
+File: ../asset/value_iteration_policy.png Graphic file (type png)
+<use ../asset/value_iteration_policy.png>
+Package pdftex.def Info: ../asset/value_iteration_policy.png  used on input lin
+e 35.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+[1
+
+{C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<../asset/value_iteration_utility.png, id=19, 462.528pt x 346.896pt>
+File: ../asset/value_iteration_utility.png Graphic file (type png)
+<use ../asset/value_iteration_utility.png>
+Package pdftex.def Info: ../asset/value_iteration_utility.png  used on input li
+ne 43.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+ [2 <../asset/value_iteration_policy.png> <../asset/value_iteration_utility.png
+>]
+<../asset/value_iteration_curve.png, id=25, 462.528pt x 346.896pt>
+File: ../asset/value_iteration_curve.png Graphic file (type png)
+<use ../asset/value_iteration_curve.png>
+Package pdftex.def Info: ../asset/value_iteration_curve.png  used on input line
+ 65.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+ [3 <../asset/value_iteration_curve.png>]
+<../asset/policy_iteration_policy.png, id=30, 462.528pt x 346.896pt>
+File: ../asset/policy_iteration_policy.png Graphic file (type png)
+<use ../asset/policy_iteration_policy.png>
+Package pdftex.def Info: ../asset/policy_iteration_policy.png  used on input li
+ne 93.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+<../asset/policy_iteration_utility.png, id=31, 462.528pt x 346.896pt>
+File: ../asset/policy_iteration_utility.png Graphic file (type png)
+<use ../asset/policy_iteration_utility.png>
+Package pdftex.def Info: ../asset/policy_iteration_utility.png  used on input l
+ine 101.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+ [4 <../asset/policy_iteration_policy.png>]
+<../asset/policy_iteration_curve.png, id=36, 462.528pt x 346.896pt>
+File: ../asset/policy_iteration_curve.png Graphic file (type png)
+<use ../asset/policy_iteration_curve.png>
+Package pdftex.def Info: ../asset/policy_iteration_curve.png  used on input lin
+e 123.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+
+[5 <../asset/policy_iteration_utility.png>]
+<../results/maze_size_7/env.png, id=41, 462.528pt x 346.896pt>
+File: ../results/maze_size_7/env.png Graphic file (type png)
+<use ../results/maze_size_7/env.png>
+Package pdftex.def Info: ../results/maze_size_7/env.png  used on input line 138
+.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+<../results/maze_size_9/env.png, id=42, 462.528pt x 346.896pt>
+File: ../results/maze_size_9/env.png Graphic file (type png)
+<use ../results/maze_size_9/env.png>
+Package pdftex.def Info: ../results/maze_size_9/env.png  used on input line 144
+.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+<../results/maze_size_11/env.png, id=43, 462.528pt x 346.896pt>
+File: ../results/maze_size_11/env.png Graphic file (type png)
+<use ../results/maze_size_11/env.png>
+Package pdftex.def Info: ../results/maze_size_11/env.png  used on input line 15
+2.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+<../results/maze_size_13/env.png, id=44, 462.528pt x 346.896pt>
+File: ../results/maze_size_13/env.png Graphic file (type png)
+<use ../results/maze_size_13/env.png>
+Package pdftex.def Info: ../results/maze_size_13/env.png  used on input line 15
+8.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 150--162
+[][] [] 
+ []
+
+<../results/maze_size_15/env.png, id=45, 462.528pt x 346.896pt>
+File: ../results/maze_size_15/env.png Graphic file (type png)
+<use ../results/maze_size_15/env.png>
+Package pdftex.def Info: ../results/maze_size_15/env.png  used on input line 16
+6.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+<../results/maze_size_17/env.png, id=46, 462.528pt x 346.896pt>
+File: ../results/maze_size_17/env.png Graphic file (type png)
+<use ../results/maze_size_17/env.png>
+Package pdftex.def Info: ../results/maze_size_17/env.png  used on input line 17
+2.
+(pdftex.def)             Requested size: 170.71652pt x 128.0372pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 164--176
+[][] [] 
+ []
+
+[6 <../asset/policy_iteration_curve.png> <../results/maze_size_7/env.png> <../r
+esults/maze_size_9/env.png>]
+<../results/value_iteration_curves.png, id=54, 462.528pt x 346.896pt>
+File: ../results/value_iteration_curves.png Graphic file (type png)
+<use ../results/value_iteration_curves.png>
+Package pdftex.def Info: ../results/value_iteration_curves.png  used on input l
+ine 184.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+ [7 <../results/maze_size_11/env.png> <../results/maze_size_13/env.png> <../res
+ults/maze_size_15/env.png> <../results/maze_size_17/env.png>]
+<../results/policy_iteration_curves.png, id=63, 462.528pt x 346.896pt>
+File: ../results/policy_iteration_curves.png Graphic file (type png)
+<use ../results/policy_iteration_curves.png>
+Package pdftex.def Info: ../results/policy_iteration_curves.png  used on input 
+line 190.
+(pdftex.def)             Requested size: 284.52756pt x 213.40593pt.
+ [8 <../results/value_iteration_curves.png> <../results/policy_iteration_curves
+.png>] (Amirul_Hakim_U2120904B.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3510 strings out of 474486
+ 64571 string characters out of 5744227
+ 1933542 words of memory out of 5000000
+ 25806 multiletter control sequences out of 15000+600000
+ 562623 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,8n,77p,435b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/USER/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/USER/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/U
+SER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/U
+sers/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy5.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy7.pfb>
+Output written on Amirul_Hakim_U2120904B.pdf (8 pages, 332545 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
